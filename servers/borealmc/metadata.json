@@ -1,11 +1,11 @@
 {
     "id": "borealmc",
-    "name": "BorealMC",
+    "name": "pvpreal",
     "store": "https://store.borealmc.club/",
     "addresses": [
         "borealmc.club"
     ],
-    "primaryAddress": "eu.borealmc.com",
+    "primaryAddress": "eu.pvpreal.com",
     "primaryColor": "#a0cbfe",
     "secondaryColor": "#091a32",
     "minecraftVersions": [
